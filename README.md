@@ -22,6 +22,6 @@
 
 * [circleRadius](exercises/circleRadius.py), I'm calculating the radius of a circle. **date(12:36 11/16/2026)**
 
-* [hypotenuse](exercises/hypotenuse.py), I'm calculating the hypotenuse
+* [hypotenuse](exercises/hypotenuse.py), I'm calculating the hypotenuse. **date(12:40 11/16/2026)**
 ---
 You can find The full Course on Bro Code channel [Python Full Course for free 🐍](https://www.youtube.com/watch?v=ix9cRaBkVe0)
