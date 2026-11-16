@@ -1,6 +1,6 @@
 # python-roadMap
-## Python stuff
-### The topics are following a Chronological order (date format MM/DD/YYYY America/Sao_Paulo)
+## Python stuff **I came from a different language so i already knew about these basic topics.**
+### The topics are following a Chronological order (date format 24H MM/DD/YYYY America/Sao_Paulo)
 [Basics](basics)
 
 * [format.py](basics/format.py), i'm learning about concatenation in python  e.g: print(f"string {variable}"). **date(10:15 11/16/2026)**
@@ -13,6 +13,9 @@
 
 * [statement.py](basics/statement.py), i'm learning about conditions in python **date(12:25 11/16/2026)**
 
+* [logicalOp.py](basics/logicalOp.py), i'm learning about logical operator in python e.g (and, or, not) **date(15:51 11/16/2026)**
+
+* [ternary.py](basics/ternary.py), i'm learning about ternary operators e.g: "Positive" if condition else "negative" **date(16:01 11/16/2025)**
 [Exercises](exercises)
 
 * [rectangleArea](exercises/rectangleArea.py), I'm calculating the area of a rectangle. **date(11:10 11/16/2026)**
@@ -23,5 +26,6 @@
 * [circleRadius](exercises/circleRadius.py), I'm calculating the radius of a circle. **date(12:36 11/16/2026)**
 
 * [hypotenuse](exercises/hypotenuse.py), I'm calculating the hypotenuse. **date(12:40 11/16/2026)**
+* [calculator](exercises/calculator.py), i'm creating a python calculator. **date(15:40 11/16/2026)**
 ---
 You can find The full Course on Bro Code channel [Python Full Course for free 🐍](https://www.youtube.com/watch?v=ix9cRaBkVe0)
