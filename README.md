@@ -12,9 +12,7 @@
 * [rectangleArea](exercises/rectangleArea.py), I'm calculating the area of a rectangle. **date(11:10 11/16/2026)**
 * [shoppingCart](exercises/shoppingCart.py), I'm creating a shopping cart program. **date(11:42 11/16/2026)**
 
-[MadlibsGame](madlibs) 
-
-* [madlibsGame](madlibs/main.py), I'm creating a 
+* [madlibsGame](exercises/madlibsGame.py), I'm creating a word game where you create a story by filling in blanks with random  words. **date(12:02 11/16/2026)**
 
 ---
 You can find The full Course on Bro Code channel [Python Full Course for free 🐍](https://www.youtube.com/watch?v=ix9cRaBkVe0)
