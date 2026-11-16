@@ -16,6 +16,7 @@
 * [logicalOp.py](basics/logicalOp.py), i'm learning about logical operator in python e.g (and, or, not) **date(15:51 11/16/2026)**
 
 * [ternary.py](basics/ternary.py), i'm learning about ternary operators e.g: "Positive" if condition else "negative" **date(16:01 11/16/2025)**
+
 [Exercises](exercises)
 
 * [rectangleArea](exercises/rectangleArea.py), I'm calculating the area of a rectangle. **date(11:10 11/16/2026)**
