@@ -1,6 +1,6 @@
 # python-roadMap
 ## Python stuff
-
+### The topics are following a Chronological order
 [Basics](basics)
 
 - [format.py](basics/format.py), i'm learning about concatenation in python  e.g: print(f"string {variable}")
