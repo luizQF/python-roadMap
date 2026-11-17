@@ -17,6 +17,16 @@
 
 * [ternary.py](basics/ternary.py), i'm learning about ternary operators e.g: "Positive" if condition else "negative" **date(16:01 11/16/2025)**
 
+* [stringMethods.py](basics/stringMethods.py), i'm learning about string methods in python. **date(10:09 11/17/2026)**
+
+* [indexing.py](basics/indexing.py) I'm learning about indexing in python **date(10:38, 11/17/2026)**
+
+* [formatSpec.py](basics/formatSpec.py) I'm learning about format specifiers in python **date(12:07, 11/17/2026)**
+
+* [whileLoop.py](basics/whileLoop.py) I'm learning about while loop in python. **date(12:19 11/17/2026)**
+
+* [forLoop.py](basics/forLoop.py) I'm learning about while loop in python **date(12:48, 17/11/2026)**
+
 [Exercises](exercises)
 
 * [rectangleArea](exercises/rectangleArea.py), I'm calculating the area of a rectangle. **date(11:10 11/16/2026)**
@@ -27,6 +37,10 @@
 * [circleRadius](exercises/circleRadius.py), I'm calculating the radius of a circle. **date(12:36 11/16/2026)**
 
 * [hypotenuse](exercises/hypotenuse.py), I'm calculating the hypotenuse. **date(12:40 11/16/2026)**
+
 * [calculator](exercises/calculator.py), i'm creating a python calculator. **date(15:40 11/16/2026)**
+
+* [inputValidation](exercises/inputValidation.py) i'm creating a inputUser validation in python **date(10:20 11/17/2026)**
+
 ---
 You can find The full Course on Bro Code channel [Python Full Course for free 🐍](https://www.youtube.com/watch?v=ix9cRaBkVe0)
