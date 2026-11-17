@@ -25,7 +25,7 @@
 
 * [whileLoop.py](basics/whileLoop.py) I'm learning about while loop in python. **date(12:19 11/17/2026)**
 
-* [forLoop.py](basics/forLoop.py) I'm learning about while loop in python **date(12:48, 17/11/2026)**
+* [forLoop.py](basics/forLoop.py) I'm learning about for loop in python **date(12:48, 17/11/2026)**
 
 [Exercises](exercises)
 
