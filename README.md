@@ -25,7 +25,13 @@
 
 * [whileLoop.py](basics/whileLoop.py) I'm learning about while loop in python. **date(12:19 11/17/2026)**
 
-* [forLoop.py](basics/forLoop.py) I'm learning about for loop in python **date(12:48, 17/11/2026)**
+* [forLoop.py](basics/forLoop.py) I'm learning about for loop in python **date(12:48, 11/17/2026)**
+
+* [nestedLoops.py](basics/nestedLoops.py), I'm learning about nested loops in python **date(12:20 11/18/2026)**
+
+[Intermediate](intermediate)
+
+
 
 [Exercises](exercises)
 
@@ -41,6 +47,8 @@
 * [calculator](exercises/calculator.py), i'm creating a python calculator. **date(15:40 11/16/2026)**
 
 * [inputValidation](exercises/inputValidation.py) i'm creating a inputUser validation in python **date(10:20 11/17/2026)**
+
+* [countDownApp](exercises/countDownApp.py) i'm creating a count down app using time.sleep(). **date(11:24 11/18/2026)**
 
 ---
 You can find The full Course on Bro Code channel [Python Full Course for free 🐍](https://www.youtube.com/watch?v=ix9cRaBkVe0)
