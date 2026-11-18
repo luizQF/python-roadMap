@@ -33,7 +33,7 @@
 
 * [collection.py](intermediate/collection.py) I'm learning about collection in python. **date(13:00 11/18/2026)**
 
-* [dictionary.py](intermediate/dictionary.py) I'm learning about dictionary in python **date(13:15 11/18/2026)
+* [dictionary.py](intermediate/dictionary.py) I'm learning about dictionary in python **date(13:15 11/18/2026)**
 
 [Exercises](exercises)
 
