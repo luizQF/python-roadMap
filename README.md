@@ -35,6 +35,16 @@
 
 * [dictionary.py](intermediate/dictionary.py) I'm learning about dictionary in python **date(13:15 11/18/2026)**
 
+* [random.py](intermediate/random.py) I'm learning about random numbers in python. **date(09:04 11/19/2026)**
+
+* [functions.py](intermediate/functions.py) I'm learning about functions in python. **date(09:03 11/19/2026)**
+
+* [defaultArgs.py](intermediate/defaultArgs.py) i'm learning about default arguments in python. **date(09:46 11/19/2026)**
+
+* [keyWordsArgs.py](intermediate/keyWordsArgs.py) i'm learning about key words arguments in python. **date(10:01 11/19/2026)**
+
+* [argsKwargs.py](intermediate/argsKwargs.py)(intermediate/keyWordsArgs.py) i'm learning about *args & **kwargs in python **date(10:13 11/19/2026)**
+
 [Exercises](exercises)
 
 * [rectangleArea](exercises/rectangleArea.py), I'm calculating the area of a rectangle. **date(11:10 11/16/2026)**
@@ -52,5 +62,6 @@
 
 * [countDownApp](exercises/countDownApp.py) i'm creating a count down app using time.sleep(). **date(11:24 11/18/2026)**
 
+* [diceRoller.py](exercises/diceRoller.py) I'm creating a dice roller in python. **date(09:15 11/19/2026)**
 ---
 You can find The full Course on Bro Code channel [Python Full Course for free 🐍](https://www.youtube.com/watch?v=ix9cRaBkVe0)
