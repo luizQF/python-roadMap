@@ -32,18 +32,17 @@ def with_draw():
         account["money"] -= money
         print(f"Money with drew: {money}")
 
-def app():
+def main():
     is_running = True
     while is_running:
 
         if account["name"] == "":
             open_account()
         else:
-            print("\n\n\n\n\n\n\n\n*******************\nBANKING PROGRAM\n*******************")
-
-            choise = int(input("1.SHOW BALANCE\n 2.DEPOSIT\n 3.WITHDRAW\n 4.EXIT\n"))
-                        
-    
+            print("*******************")
+            print("  BANKING PROGRAM")
+            print("*******************")
+            choise = int(input("1.SHOW BALANCE\n2.DEPOSIT\n3.WITHDRAW\n4.EXIT\n"))
             match choise:
                 case 1:
                     print(show_balance())
@@ -58,4 +57,4 @@ def app():
         time.sleep(2)        
 
 if __name__ == "__main__":
-    app()
+    main()
