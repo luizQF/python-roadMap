@@ -45,6 +45,21 @@
 
 * [argsKwargs.py](intermediate/argsKwargs.py)(intermediate/keyWordsArgs.py) i'm learning about *args & **kwargs in python **date(10:13 11/19/2026)**
 
+* [iterable.py](intermediate/iterables.py) i'm learning about iterables in python. **date(10:30 11/21/2026)**
+
+* [membershipOp.py](intermediate/membershipOp.py) i'm learning about membership operators in python. **date(10:30 11/21/2026)**
+
+* [listComprehension.py](intermediate/listComprehension.py) i'm learning about listComprehension in python. **date(11:09 11/21/2026)**
+
+* [matchCase.py](intermediate/matchCase.py) i'm learning about list comprehension in python. **date(11:25 11/21/2026)**
+
+* [module.py](intermediate/module.py) i'm learning about modules in python. **date(11:48 11/21/2026)**
+
+* [scope.py](intermediate/scope.py) i'm learning about scopes in python. **date(12:04 11/21/2026)**
+
+* [dundername](intermediate/dundername/) i'm learning about if __name__ == __main__ in python.
+**date(12:07 11/21/2026)**
+
 [Exercises](exercises)
 
 * [rectangleArea](exercises/rectangleArea.py), I'm calculating the area of a rectangle. **date(11:10 11/16/2026)**
