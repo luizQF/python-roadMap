@@ -57,8 +57,10 @@
 
 * [scope.py](intermediate/scope.py) i'm learning about scopes in python. **date(12:04 11/21/2026)**
 
-* [dundername](intermediate/dundername/) i'm learning about if __name__ == __main__ in python.
+* [dundername](intermediate/dundername) i'm learning about if __name__ == __main__ in python.
 **date(12:07 11/21/2026)**
+
+
 
 [Exercises](exercises)
 
@@ -78,5 +80,7 @@
 * [countDownApp](exercises/countDownApp.py) i'm creating a count down app using time.sleep(). **date(11:24 11/18/2026)**
 
 * [diceRoller.py](exercises/diceRoller.py) I'm creating a dice roller in python. **date(09:15 11/19/2026)**
+
+* [bankingProgram.py](exercises/bankingProgram.py)  I'm creating a bank system in python. **date(19:10 11/21/2026)**
 ---
 You can find The full Course on Bro Code channel [Python Full Course for free 🐍](https://www.youtube.com/watch?v=ix9cRaBkVe0)
