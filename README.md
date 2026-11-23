@@ -36,11 +36,13 @@
 - [scope.py](intermediate/scope.py), I'm learning about scopes in Python. **date(12:04 11/21/2026)**
 - [dundername](intermediate/dundername), I'm learning about `if __name__ == "__main__"` in Python. **date(12:07 11/21/2026)**
 
-[Object Oriented Programming](opp)
+[Object Oriented Programming](oop)
 
-- [introduction.py](opp/introduction.py), Introduction to Object-Oriented Programming. **date(10:22 11/23/2026)**
-- [classVariable.py](opp/classVariable.py), I'm learning about class variables in Python. **date(10:37 11/23/2026)**
-- [inheritance.py](opp/inheritance.py), I'm learning about inheritance in Python. **date(10:55 11/23/2026)**
+- [introduction.py](oop/introduction.py), Introduction to Object-Oriented Programming. **date(10:22 11/23/2026)**
+- [classVariable.py](oop/classVariable.py), I'm learning about class variables in Python. **date(10:37 11/23/2026)**
+- [inheritance.py](oop/inheritance.py), I'm learning about inheritance in Python. **date(10:55 11/23/2026)**
+- [multipleInheritance.py](oop/multipleInheritance.py), I'm learning about multiple inheritance in Python. **date(10:55 11/23/2026)**
+- [super.py](oop/super.py), I'm learning about `super()` function in Python. **date(11:52 11/23/2026)**
 
 [Exercises](exercises)
 
