@@ -35,6 +35,10 @@
 - [module.py](intermediate/module.py), I'm learning about modules in Python. **date(11:48 11/21/2026)**
 - [scope.py](intermediate/scope.py), I'm learning about scopes in Python. **date(12:04 11/21/2026)**
 - [dundername](intermediate/dundername), I'm learning about `if __name__ == "__main__"` in Python. **date(12:07 11/21/2026)**
+- [decorators.py](intermediate/decorators.py) I'm learning about decorators in Python. **date(09:26 11/25/2026)**
+- [exception.py](intermediate/exception.py) I'm learning about exception in Python. **date(09:26 11/25/2026)**
+- [fileDetection.py](intermediate/fileDetection.py) I'm learning about file detection in Python. **date(10:50 11/25/2026)** 
+- [fileWriting.py](intermediate/fileWriting.py) I'm learning about file writing in Python. **date(11:13 11/25/2026)**
 
 [Object Oriented Programming](oop)
 
@@ -48,6 +52,7 @@
 - [static.py](oop/static.py) I'm learning about static methods in Python. **date(21:45 11/24/2026)**
 - [classMethods.py](oop/classMethods.py) I'm learning about class methods in Python. **date(21:55 11/24/2026)**
 - [magicMethods.py](oop/magicMethods.py) I'm learning about magic methods (dunder methods) such as `__init__` `__str__` in Python. **date(22:14 11/24/2026)**
+- [property.py](oop/property.py) I'm learning about `@property` in Python. **date(09:26 11/25/2026)**
 
 [Exercises](exercises)
 
