@@ -44,7 +44,11 @@
 - [multipleInheritance.py](oop/multipleInheritance.py), I'm learning about multiple inheritance in Python. **date(10:55 11/23/2026)**
 - [super.py](oop/super.py), I'm learning about `super()` function in Python. **date(11:52 11/23/2026)**
 - [polymorphism.py](oop/polymorphism.py) I'm learning about Polymorphism in Python. **date(10:17 11/24/2026)**
-- [duckTyping.py](oop/duckTyping.py) I'm learning about duck typing in Python. **date(10:54 11/21/2026)**
+- [duckTyping.py](oop/duckTyping.py) I'm learning about duck typing in Python. **date(10:54 11/24/2026)**
+- [static.py](oop/static.py) I'm learning about static methods in Python. **date(21:45 11/24/2026)**
+- [classMethods.py](oop/classMethods.py) I'm learning about class methods in Python. **date(21:55 11/24/2026)**
+- [magicMethods.py](oop/magicMethods.py) I'm learning about magic methods (dunder methods) such as `__init__` `__str__` in Python. **date(22:14 11/24/2026)**
+
 [Exercises](exercises)
 
 - [rectangleArea](exercises/rectangleArea.py), I'm calculating the area of a rectangle. **date(11:10 11/16/2026)**
