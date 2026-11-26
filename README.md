@@ -39,7 +39,8 @@
 - [exception.py](intermediate/exception.py) I'm learning about exception in Python. **date(09:26 11/25/2026)**
 - [fileDetection.py](intermediate/fileDetection.py) I'm learning about file detection in Python. **date(10:50 11/25/2026)** 
 - [fileWriting.py](intermediate/fileWriting.py) I'm learning about file writing in Python. **date(11:13 11/25/2026)**
-
+- [fileReading.py](intermediate/fileReading.py) I'm learning about file reading in Python **(10:24 11/26/2026)**
+- [dateTime.py](intermediate/dateTime.py) I'm learning about date time in Python. **(11:22 11/26/2026)**
 [Object Oriented Programming](oop)
 
 - [introduction.py](oop/introduction.py), Introduction to Object-Oriented Programming. **date(10:22 11/23/2026)**
@@ -67,6 +68,7 @@
 - [diceRoller.py](exercises/diceRoller.py), I'm creating a dice roller in Python. **date(09:15 11/19/2026)**
 - [bankingProgram.py](exercises/bankingProgram.py), I'm creating a banking system in Python. **date(19:10 11/21/2026)**
 - [encryptionProgram.py](exercises/encryptionProgram.py), I'm creating an encryption program in Python. **date(09:27 11/23/2026)**
+- [alarmClock.py](exercises/alarmClock.py) I'm creating an alarm clock in Python. **date(11:31 11/26/2026)**
 
 ---
 You can find the full course on Bro Code's channel: [Python Full Course for free 🐍](https://www.youtube.com/watch?v=ix9cRaBkVe0)
